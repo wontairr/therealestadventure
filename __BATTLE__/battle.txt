@@ -1,0 +1,5 @@
+name the files like this if you like
+
+(enemynumber)e(goldreturn)g
+
+example: for 4 enemies and 30 gold: 4e30g
