@@ -1,3 +1,6 @@
 personal/
 *.afphoto~lock~
 *.afphoto
+
+/___DECKS___/deckfixer
+*.sln
