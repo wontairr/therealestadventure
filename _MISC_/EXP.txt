@@ -1,0 +1,9 @@
+XP is gained after battles. Each monster killed gives 1 XP Point. XP is only awarded on a completed, succesful battle.
+
+XP can be used to upgrade your Team Stats. Team Stats apply to everyone on the team.
+
+Vitality = Everyone gets +10 Health.
+Sorcery = Everyone gets +20 Mana.
+Charisma = Shopkeepers get 1 extra item.
+Wealth = +10 Gold after a battle.
+Stamina = Higher chance to dodge an attack.
