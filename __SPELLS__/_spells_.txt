@@ -1,0 +1,4 @@
+Spells can be used seperatley from your main attack, and do not take up a turn. You will need to provide the correct Mana Point (MP) cost before
+you use a spell, unless it is a passive spell in which case the effect is always active.
+
+You may only have 1 spell equipped at a time. You may not swap spells in the middle of a battle.

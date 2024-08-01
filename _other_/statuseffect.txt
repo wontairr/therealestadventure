@@ -1,0 +1,4 @@
+Frozen = When an enemy is Frozen, they flip a coin each turn. On heads, they stay frozen and cannot attack. On tails, they are no longer frozen
+Burned = When an enemy is Burned, they flip a coin each turn. On heads, they take 10 damage. On tails, they take no damage.
+Poisoned = When an enemy is Poisoned, they take 10 damage each turn. Enemies at 20HP or lower take no poison damage.
+Stunned = When an enemy is Stunned, for 1 turn they roll a weaker battle dice when they attack. Afterwards they are no longer stunned.

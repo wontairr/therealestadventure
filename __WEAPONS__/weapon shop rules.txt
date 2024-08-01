@@ -1,4 +1,0 @@
-Weapons in the Shop Deck must be Tier 2 or Tier 3, do not put Tier 1. (Reminder for when you're building deck)
-Tier 1 weapons can be obtained from the Item Pile or Weapon Pile.
-Tier 2 weapons can be obtained from the Weapon Pile or Shop. 
-Tier 3 weapons can only be obtained through the Shop.

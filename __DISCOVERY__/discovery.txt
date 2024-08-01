@@ -1,1 +1,0 @@
-white text at the bottom and the first line at the bottom half should normally be "You found (blank)!"
